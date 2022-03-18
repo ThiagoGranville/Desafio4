@@ -1,0 +1,8 @@
+E:\thiag\Projects\.Net training\Cedro\Desafios\Desafio4\Desafio4\bin\Debug\Desafio4.exe.config
+E:\thiag\Projects\.Net training\Cedro\Desafios\Desafio4\Desafio4\bin\Debug\Desafio4.exe
+E:\thiag\Projects\.Net training\Cedro\Desafios\Desafio4\Desafio4\bin\Debug\Desafio4.pdb
+E:\thiag\Projects\.Net training\Cedro\Desafios\Desafio4\Desafio4\obj\Debug\Desafio4.csproj.AssemblyReference.cache
+E:\thiag\Projects\.Net training\Cedro\Desafios\Desafio4\Desafio4\obj\Debug\Desafio4.csproj.SuggestedBindingRedirects.cache
+E:\thiag\Projects\.Net training\Cedro\Desafios\Desafio4\Desafio4\obj\Debug\Desafio4.csproj.CoreCompileInputs.cache
+E:\thiag\Projects\.Net training\Cedro\Desafios\Desafio4\Desafio4\obj\Debug\Desafio4.exe
+E:\thiag\Projects\.Net training\Cedro\Desafios\Desafio4\Desafio4\obj\Debug\Desafio4.pdb
